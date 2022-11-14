@@ -1,0 +1,3 @@
+import dirbpy
+
+dirbpy.main()
